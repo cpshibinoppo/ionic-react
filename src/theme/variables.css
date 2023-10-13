@@ -2,6 +2,10 @@
 http://ionicframework.com/docs/theming/ */
 /** Ionic CSS Variables **/
 :root {
+  /** Theme **/
+  --theme-black:black;
+  --theme-white:#FFF;
+  --theme-main:#E50914;
   /** primary **/
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;

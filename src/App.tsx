@@ -21,6 +21,8 @@ import '@ionic/react/css/display.css';
 import './theme/variables.css';
 /* Tailwind css */
 import './theme/tailwind.css';
+/* Style css */
+import './theme/style.css';
 
 setupIonicReact();
 

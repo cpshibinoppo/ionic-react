@@ -1,0 +1,19 @@
+.signbtn{
+    background-color: var(--theme-main);
+    color: var(--theme-white);
+    padding: 0.7rem 0rem;
+    border-radius: 18px;
+}
+.googlebtn{
+    color: var(--theme-white);
+    padding: 0.7rem 0rem;
+    border: 1px solid var(--theme-white);
+    border-radius: 18px;
+}
+.loginSection .bottomSection{
+    background: linear-gradient(0deg, rgba(0,0,0,0.9) 90%, rgba(0,212,255,0) 100%);
+
+}
+.loginSection header{
+    background: linear-gradient(180deg, rgba(0,0,0,0.9) 90%, rgba(0,212,255,0) 100%);
+}
